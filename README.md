@@ -11,5 +11,5 @@
 <h2 align="center">💻 My Tech Stack :</h2>
 
 <p align="center">
-    <img width="400" src="https://skillicons.dev/icons?i=js,html,css,nextjs" alt="Coding Skills">
+    <img width="200" src="https://skillicons.dev/icons?i=js,html,css,nextjs" alt="Coding Skills">
 </p>
