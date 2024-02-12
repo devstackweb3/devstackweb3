@@ -12,3 +12,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs)](https://skillicons.dev)
 
+<p align="center">
+    <img width="600" src="https://skillicons.dev/icons?i=js,html,css,nextjs" alt="Coding Skills">
+</p>
