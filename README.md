@@ -17,7 +17,8 @@
 </p>
 
 <h2 align="center">💻 UI/UX Software Used :</h2>
-Skills developed to create Metahuman avatars in ultra-realistic approach. And implementing blender 3D objects with help of threejs. 
+* Creation of Metahuman avatars (Unreal Engine 5 & Epic Games Launcher) in ultra-realistic approach.
+* Implementation of 3D blender objects through the help of threejs software. 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=blender,unreal,threejs" />
