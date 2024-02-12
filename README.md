@@ -12,6 +12,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,blender" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs" />
+  </a>
+</p>
+
+<h2 align="center">💻 UI/UX Software Used :</h2>
+Skills developed to create Metahuman avatars in ultra-realistic approach. And implementing blender 3D objects with help of threejs. 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender, unreal, threejs" />
   </a>
 </p>
