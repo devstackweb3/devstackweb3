@@ -25,3 +25,5 @@
     <img src="https://skillicons.dev/icons?i=blender,unreal,threejs" />
   </a>
 </p>
+
+<img align="left" alt="devstackweb3" src="https://github-readme-stats.vercel.app/api?username=devstackweb3&show_icons=true&hide_border=true&count_private=true"/>
