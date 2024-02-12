@@ -9,6 +9,6 @@
 * 📝 I’m aiming to familiarize with back-end data management in February 2024.
 
 <h2 align="center">💻 My Tech Stack :</h2>
-
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs)](https://skillicons.dev)
-
+</p>
