@@ -20,6 +20,6 @@
 Skills developed to create Metahuman avatars in ultra-realistic approach. And implementing blender 3D objects with help of threejs. 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender, unreal, threejs" />
+    <img src="https://skillicons.dev/icons?i=blender,unreal,threejs" />
   </a>
 </p>
