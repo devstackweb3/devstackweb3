@@ -1,7 +1,7 @@
 # Hello there ! 🥋⚔️🌌
 
 <p align="center">
-    <img width="800" src="https://github.com/devstackweb3/devstackweb3/assets/118926098/26d2024a-5f8b-4076-bc62-4275563fd3bd" alt="Introduction">
+    <img width="600" src="https://github.com/devstackweb3/devstackweb3/assets/118926098/26d2024a-5f8b-4076-bc62-4275563fd3bd" alt="Introduction">
 </p>
 
 ## 💻 My Tech Stack :
