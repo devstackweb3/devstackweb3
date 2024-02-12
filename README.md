@@ -28,4 +28,4 @@
 <h2 align="center">⚡Github Stats :</h2>
 
 <img align="left" alt="devstackweb3" src="https://github-readme-stats.vercel.app/api?username=devstackweb3&show_icons=true&hide_border=true&count_private=true"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devstackweb3&langs_count=4"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devstackweb3&hide=python"/>
