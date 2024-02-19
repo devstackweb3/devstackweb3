@@ -1,4 +1,4 @@
-<h1 align="center">Hello there ! 🥋⚔️🌌</h1>
+<h1 align="center">Welcome !</h1>
 
 <p align="center">
     <img width="600" src="https://github.com/devstackweb3/devstackweb3/assets/118926098/7c8015a9-d891-43a1-b1a8-223439b22acc" alt="Introduction">
