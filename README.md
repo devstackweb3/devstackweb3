@@ -6,7 +6,7 @@
 
 * 🔭 I'm currently training with the [Helsinki university program](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps) to perfect my REACT skills.
 * 🌱 I’m passionate about designing & pushing back current borders in loyalty's programms with help of [digital technologies](https://ethereum.org/en/web3).
-* 📝 I’m aiming to familiarize with back-end data management in February 2024.
+* 📝 I’m aiming to familiarize with back-end data management in April 2024.
 
 <h2 align="center">💻 My Tech Stack :</h2>
 
