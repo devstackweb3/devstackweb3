@@ -4,7 +4,6 @@
     <img width="600" src="https://github.com/devstackweb3/devstackweb3/assets/118926098/7c8015a9-d891-43a1-b1a8-223439b22acc" alt="Introduction">
 </p>
 
-* 🔭 I'm currently training with the [Helsinki university program](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps) to perfect my REACT skills.
 * 🌱 I’m passionate about designing & pushing back current borders in loyalty's programms with help of [digital technologies](https://ethereum.org/en/web3).
 * 📝 I’m aiming to familiarize with back-end data management (SANITY) in April 2024.
 
